@@ -39,7 +39,7 @@ The model is deployed using Streamlit, allowing users to input wine characterist
 - `housing.ipynb`: Jupyter notebook containing the Exploratory Data Analysis.
 - `requirements.txt`: It contains the modules that are needed to create this project.
 - `build.pkl`: Serialized Logistic Regression model.
-- [](https://housing-ahlzfvwdwhapewpbbkzz9e.streamlit.app/)]: Streamlit application script for deploying the model.
+- [(https://housing-ahlzfvwdwhapewpbbkzz9e.streamlit.app/)]: Streamlit application script for deploying the model.
 
 ## How to Run the Project
 
