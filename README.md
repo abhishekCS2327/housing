@@ -35,7 +35,7 @@ The trained model is serialized into a pickle file (`model.pkl`) for future use 
 The model is deployed using Streamlit, allowing users to input wine characteristics and obtain quality predictions.
 
 ## Files in the Repository
-- [](https://github.com/abhishekCS2327/housing/blob/main/Housing.csv): The original dataset.
+- [(https://github.com/abhishekCS2327/housing/blob/main/Housing.csv)]: The original dataset.
 - `housing.ipynb`: Jupyter notebook containing the Exploratory Data Analysis.
 - `requirements.txt`: It contains the modules that are needed to create this project.
 - `build.pkl`: Serialized Logistic Regression model.
